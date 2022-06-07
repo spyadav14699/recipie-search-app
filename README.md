@@ -10,7 +10,7 @@
 
 ## 🔴 Live Demo
 
-👉 **Preview**: https://boisterous-tarsier-a79a3d.netlify.app/
+👉 **Preview**: https://darling-bombolone-1a2602.netlify.app/
 ## 🖥️ Technologies
 
 - HTML
